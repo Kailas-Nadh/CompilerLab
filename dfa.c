@@ -55,7 +55,7 @@ int main()
 	
 	for(i=0;i<numofFinal;i++)
 	{
-		if(currentState=finalState[i]){
+		if(currentState==finalState[i]){
 		flag=1;
 		}
 	}
